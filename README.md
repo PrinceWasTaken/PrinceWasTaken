@@ -1,6 +1,24 @@
-- Im Prince, but PrinceWasTaken
-- Check me out: https://ssprince.carrd.co
-<!---
-PrinceWasTaken/PrinceWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+cd ~
+ls
+cd downloads/
+clear
+ls
+cd /
+ls
+clear
+firefox
+sudo systemctl start NetworkManager
+systemctl status NetworkManager
+^[[99;9u
+neofetch
+clear
+cd ~.conf/hypr/
+nano hyprland.conf
+clear
+neofetch
+clear
+lsblk
+clear
+clear
+sudo systemctl shutdown now```
