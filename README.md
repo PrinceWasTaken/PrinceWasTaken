@@ -21,4 +21,4 @@ clear
 lsblk
 clear
 clear
-sudo systemctl shutdown now```
+sudo systemctl shutdown now
